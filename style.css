@@ -148,7 +148,7 @@ section .title::after {
 }
 
 .navbar .menu li a:hover {
-    color: crimson;
+    color: rgb(74, 68, 155);
 }
 
 .navbar.sticky .menu li a:hover {
@@ -252,7 +252,7 @@ section .title::after {
 }
 
 .home .home-content a:hover {
-    color: crimson;
+    color: rgb(17, 91, 196);
     background: none;
 }
 
@@ -306,7 +306,7 @@ section .title::after {
 }
 
 .about .about-content .right a:hover {
-    color: crimson;
+    color: rgb(27, 131, 201);
     background: none;
 }
 
@@ -341,7 +341,7 @@ section .title::after {
 }
 
 .services .serv-content .card:hover {
-    background: crimson;
+    background: rgb(15, 51, 124);
 }
 
 .services .serv-content .card .box {
@@ -354,7 +354,7 @@ section .title::after {
 
 .services .serv-content .card i {
     font-size: 50px;
-    color: crimson;
+    color: rgb(28, 145, 188);
     transition: color 0.3s ease;
 }
 
@@ -476,7 +476,7 @@ section .title::after {
 }
 
 .teams .carousel .card:hover {
-    background: crimson;
+    background: rgb(15, 97, 212);
 }
 
 .teams .carousel .card .box {
